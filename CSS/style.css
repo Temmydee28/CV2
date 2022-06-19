@@ -10,9 +10,11 @@ body {
 
 
 #pictures {
-    width: 150px;
+    width: 200px;
+    height:330px;
     border-radius: 100px;
-    transition: zoom;
+    position:static;
+
 
 }
 
